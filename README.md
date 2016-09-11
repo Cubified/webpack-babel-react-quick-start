@@ -1,5 +1,5 @@
-# webpack-babel-react-quick-start
-A simple Webpack, Babel, and React dev server.
+# webpack-babel-react-material-ui-quick-start
+A simple Webpack, Babel, Material-UI, and React dev server.
 
 # tl;dr
 1. git clone "https://github.com/Cubified/webpack-babel-react-quick-start"
