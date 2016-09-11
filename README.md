@@ -6,4 +6,4 @@ A simple Webpack, Babel, and React dev server.
 2. cd "webpack-babel-react-quick-start"
 3. npm install
 4. npm start
-5. Open index.html
+5. Open http://localhost:8080
